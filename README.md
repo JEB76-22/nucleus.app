@@ -49,44 +49,7 @@ El diseño es adaptable a dispositivos móviles y de escritorio, usando Flexbox 
 
 ## Autor
 
-- **Javier Eduardo**
+- **JEB$DEV**   [JEB$DEV](https://github.com/JEB76-22?tab=repositories)
 
-## Demo
 
-Puedes ver una demo visual del proyecto abriendo el archivo `index.html` en tu navegador.
 
----
-
-## Screenshot
-
-![Screenshot de Nucleus eWallet](img/app_1.svg)
-
----
-
-## Detalle del Proyecto
-
-**Nucleus** es una landing page para una aplicación de billetera digital (eWallet). El sitio está construido con HTML5 y CSS3, utilizando la fuente Poppins y un diseño responsive.  
-Incluye las siguientes secciones:
-
-- **Header:** Logo, navegación y llamada a la acción.
-- **¿Qué es?:** Explicación visual y textual de la app.
-- **Seguridad:** Beneficios y características de seguridad.
-- **Comisiones:** Tabla de comisiones según el uso.
-- **Testimoniales:** Opiniones de usuarios.
-- **Footer:** Información de autor, navegación y logo.
-
-El diseño es adaptable a dispositivos móviles y de escritorio, usando Flexbox y Grid para la maquetación.
-
----
-
-## Instalación y Uso
-
-1. Clona o descarga este repositorio.
-2. Abre el archivo `index.html` en tu navegador.
-3. Asegúrate de tener la carpeta `img` y la carpeta `css` con los archivos correspondientes.
-
----
-
-## Autor
-
-- **Javier Eduardo**
